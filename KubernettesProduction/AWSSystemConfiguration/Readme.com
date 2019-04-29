@@ -19,7 +19,7 @@ kops
     source ~/.bash_profile
 Add credentials to aws CLI
 
-        PASML-335382:AWSSystemConfiguration jjacob151$ aws configure
+        aws configure
         AWS Access Key ID [****************BU2Q]: AKIAIKXDZPR5GUIUYNGQ
         AWS Secret Access Key [****************IBT5]: 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
         Default region name [us-east-2]: 
